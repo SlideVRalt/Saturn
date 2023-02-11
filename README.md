@@ -56,6 +56,3 @@ To download *Moon Edition*, follow these instructions:
 
 ![Screenshot](https://cdn.discordapp.com/attachments/833759041096384573/926286368877985803/FHoub4CWUAEeyFQ.png)
 
-*In case you feel this project deserves some extra love, I have a Ko-fi below.*
-
-[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/J3J05B5WR)
