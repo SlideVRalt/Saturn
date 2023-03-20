@@ -42,12 +42,19 @@
 
 ### Download (recommended)
 WARNING: THE SATURN ADDON ON THE [USED TO BE] MOON64 PLUGIN SITE IS NOWHERE TO BE FOUND! PLS USE MINGW64 (WHICH COMES WITH MSYS2!)
+<hr>
 1: Install GIT and MSYS2
+<hr>
 2: Open Git
+<hr>
 3: In Git: type "git clone https://github.com/SlideVRalt/Saturn-Moon-Edition-CC100-edition"
+<hr>
 4: Get a Mario 64 ROM and extract it to your Saturn: Moon Edition CC100 edition folder. RENAME THE ROM TO "baserom.[YOUR REGION HERE].z64"
+<hr>
 5: Open MINGW64 in the folder you installed this in, then type "make"
+<hr>
 6: Wait for it to finish compiling.
+<hr>
 7: WALLAH! The classic Saturn experience is now in your hands.
 
 
