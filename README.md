@@ -41,18 +41,13 @@
 ## Installation
 
 ### Download (recommended)
+WARNING: THE SATURN ADDON ON THE [USED TO BE] MOON64 PLUGIN SITE IS NOWHERE TO BE FOUND! PLS USE MINGW64 (WHICH COMES WITH MSYS2!)
+1: Install GIT and MSYS2
+2: Open Git
+3: In Git: type "git clone https://github.com/SlideVRalt/Saturn-Moon-Edition-CC100-edition"
+4: Get a Mario 64 ROM and extract it to your Saturn: Moon Edition CC100 edition folder. RENAME THE ROM TO "baserom.[YOUR REGION HERE].z64"
+5: Open MINGW64 in the folder you installed this in, then type "make"
+6: Wait for it to finish compiling.
+7: WALLAH! The classic Saturn experience is now in your hands.
 
-To download *Moon Edition*, follow these instructions:
-- Install the latest release from the [releases](https://github.com/Llennpie/Saturn/releases) page.
-- Head to the [Moon64 Addons](http://moon64.undervolt.io/addons) website and download the **Moon64 Default Addon**. You will need a vanilla 8 MB ROM to continue *(this is to avoid including any copyrighted assets)*.
-- Place the `moon64.bit` file into `addons/`, next to the `saturn/` folder **(but not in)**. Upon launching the game for the first time, it may take a second to extract assets.
-- *Optionally, get a [120 star savefile](https://cdn.discordapp.com/attachments/814630624920076298/915021206888001566/Moon64-Save-1.dat) and place in* `%appdata%/SaturnME` *(or* `.local/share/SaturnME` *on Linux).*
-
-### Compiling from Source
-
-- For building instructions, please refer to the [wiki](https://github.com/Llennpie/Saturn/wiki).
-
-***
-
-![Screenshot](https://cdn.discordapp.com/attachments/833759041096384573/926286368877985803/FHoub4CWUAEeyFQ.png)
 
