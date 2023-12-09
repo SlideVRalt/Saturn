@@ -55,6 +55,6 @@ WARNING: THE SATURN ADDON ON THE [USED TO BE] MOON64 PLUGIN SITE IS NOWHERE TO B
 <hr>
 6: Wait for it to finish compiling.
 <hr>
-7: WALLAH! The classic Saturn experience is now in your hands.
+7: ET VOILA! The classic Saturn experience is now in your hands.
 
 
